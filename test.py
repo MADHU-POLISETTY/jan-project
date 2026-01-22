@@ -1,2 +1,2 @@
 print("hello world");
-print("hai world");
+print("hai world")
